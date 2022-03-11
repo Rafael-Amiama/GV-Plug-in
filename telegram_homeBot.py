@@ -110,12 +110,12 @@ MessageLoop(bot, handle).run_as_thread()
 print ('Listening....')
 
 
-CamStreams = ["backdoorCamStream - rtsp://admin:twisted8@192.168.1.110:554/11",
-            "CornerCamStream - rtsp://admin:twisted8@192.168.1.117:554/stream0",
-            "DrivewayCamStream - rtsp://admin:twisted8@192.168.1.217:554/11",
-            "frontDoorCamStream - rtsp://admin:twisted8@192.168.1.113:554/11",
-            "GarageCamStream - rtsp://admin:twisted8@192.168.1.122:554/11",
-           "PatioCamStream - rtsp://admin:twisted8@192.168.1.157:554/stream0"
+CamStreams = ["backdoorCamStream - rtsp://xxxxxxxxxxxx:554/11",
+            "CornerCamStream - rtsp://xxxxxxxxxxxxxx:554/stream0",
+            "DrivewayCamStream - rtsp://xxxxxxxxxxxxxxxxxxx:554/11",
+            "frontDoorCamStream - rtsp://xxxxxxxxxxxxxxxx:554/11",
+            "GarageCamStream - rtsp://xxxxxxxxxxxxxxxxxxxxxxxxx:554/11",
+           "PatioCamStream - rtsp://xxxxxxxxxxxxxxxxxxxxx:554/stream0"
            ]
 
 StreamActivity = ["backdoor - 0",
